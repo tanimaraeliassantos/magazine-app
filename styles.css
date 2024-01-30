@@ -43,4 +43,5 @@ main {
 			2rem,
 			1fr
 		);
+	row-gap: 3rem;
 }
